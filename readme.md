@@ -155,6 +155,7 @@ CREATE  `/dogs`      POST  Add new dog to DB
 
 SHOW    `/dogs/:id`  GET   Shows info about one dog
 
----
+
+Change 1---
 
 Change 3
